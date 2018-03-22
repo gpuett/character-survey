@@ -1,0 +1,46 @@
+.form-control {
+  max-width: 400px;
+}
+
+.charlie {
+  display: none;
+}
+
+.mac {
+  display: none;
+}
+
+.dennis {
+  display: none;
+}
+
+.btn {
+  margin-bottom:10px;
+}
+
+p {
+  font-size: 30px;
+  text-align: center;
+}
+
+.container {
+  margin-bottom: 400px;
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-top: 100px;
+  background-color: silver;
+  max-width: 600px;
+}
+
+body {
+  background-color: yellow;
+
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  margin-bottom: 50px;
+}
